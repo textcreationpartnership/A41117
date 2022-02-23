@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance in reference to the Act to prevent and suppress seditious conventicles, super verba, being a subject of this realm which sheweth that by the said Act it seems as if the magistrates did, as it were, unadvisedly and incompetently proceed against the subjects of forreign princes, as namely, the Germans, Dutch, Frenchmen, and the like, contrary to the said Act : and so charge the government of England with a prejudice, not to be slighted, Conf. Act 22. 25 / By Albertus Otto Faber.</title>
+            <author>Faber, Albert Otto, 1612-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41117</idno>
+            <idno type="STC">Wing F69</idno>
+            <idno type="STC">ESTC R31487</idno>
+            <idno type="EEBO-CITATION">12011067</idno>
+            <idno type="OCLC">ocm 12011067</idno>
+            <idno type="VID">52415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance in reference to the Act to prevent and suppress seditious conventicles, super verba, being a subject of this realm which sheweth that by the said Act it seems as if the magistrates did, as it were, unadvisedly and incompetently proceed against the subjects of forreign princes, as namely, the Germans, Dutch, Frenchmen, and the like, contrary to the said Act : and so charge the government of England with a prejudice, not to be slighted, Conf. Act 22. 25 / By Albertus Otto Faber.</title>
+                  <author>Faber, Albert Otto, 1612-1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52415:1" rendition="simple:additions"/>
+            <p>A Remonſtrance reference to the Act, to <hi>prevent and ſuppreſs Seditious Conventicles,</hi> Super verba, <hi>Being a Subject of this Realm.</hi> Which ſheweth, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat by the ſaid Act it ſeems, as if the Magiſtrates did, as it were, unadviſedly and incompetently proceed againſt the Subjects of Forreign Princes, as namely, the <hi>Germans, Dutch, Frenchmen,</hi> and the like, con<g ref="char:EOLhyphen"/>trary to the ſaid Act: And ſo charge the Government of <hi>England</hi> with a Prejudice, not to be ſlighted. <hi>Conf. Act.</hi> 22.25.</p>
+            <p>By <hi>Albertus Otto Faber.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb n="2" facs="tcp:52415:2" rendition="simple:additions"/>
+            <head>A <hi>REMONSTRANCE</hi> in reference to the Act, to prevent and ſuppreſs Seditious Conventicles, <hi>ſuper verba, <hi>Being a Subject of this Realm,</hi>
+               </hi> &amp;c.</head>
+            <p n="1">1. THe Title (<hi>al. Rubrica</hi> or <hi>Rubrum</hi>) is this; <hi>An Act to pre<g ref="char:EOLhyphen"/>vent and ſuppreſs Seditious Conventicles.</hi>
+            </p>
+            <p n="2">2. The Text <hi>(al. Nigrum)</hi> following declares in ſubſtance, that <q rend="margQuotes">For providing of ſpeedy Remedies againſt the grow<g ref="char:EOLhyphen"/>ing and dangerous practices of ſeditious Sectaries, and other diſ<g ref="char:EOLhyphen"/>loyal perſons, who under pretence of Tender Conſciences, do at their Meetings contrive Inſurrections: it is enacted, That if any perſon, <hi>[being a Subject of this Realm]</hi> ſhall be preſent at any Aſ<g ref="char:EOLhyphen"/>ſembly, Conventicle or Meeting, above four perſons, under co<g ref="char:EOLhyphen"/>lour or pretence of any exerciſe of Religion, then the Magiſtrate ſhall commit every ſuch Offender to the Goal or Houſe of Cor<g ref="char:EOLhyphen"/>rection, there to remain without Bail or Mainpriſe, for any time, not exceeding the ſpace of three months, unleſs ſuch Offender ſhall pay down ſuch ſum of money, not exceeding five pounds for the firſt Offence. And for the ſecond Offence, he ſhall incur the ſaid penalty of Impriſonment, not exceeding ſix months, or pay down ſuch ſum of money, not exceeding ten pounds. And for the third Offence the Magiſtrate ſhall commit him as aforeſaid, until the next Seſſions, which ſhall happen firſt, where he ſhall be proceeded againſt by Indictment, in order to lawful Conviction and Tranſ<g ref="char:EOLhyphen"/>portation: and in caſe of eſcaping or returning unto this Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> [and] Town of <hi>Berwick,</hi> the par<g ref="char:EOLhyphen"/>ty ſo eſcaping or returning, ſhall be adjudged a Felon, and ſhall ſuffer Death as in caſe of Felony, without benefit of Clergy.</q>
+            </p>
+            <p n="3">3. Three things are generally to be proved here, ere any one can be convicted by the ſaid Act; 1. <hi>That any one hath been at a Conven<g ref="char:EOLhyphen"/>ticle, ſuch as is defined in this Act.</hi> 2. <hi>That he be a Subject.</hi> 3. <hi>Of this Realm.</hi>
+            </p>
+            <p n="4">4. As concerning the definition of a Conventicle, ſuch as is de<g ref="char:EOLhyphen"/>fined
+<pb n="3" facs="tcp:52415:2" rendition="simple:additions"/>in the ſaid Act, mark firſt; what ſayes its Title or <hi>Rubrick, viz. To ſuppreſs Seditious Conventicles.</hi> So all publick and open Meetings or Aſſemblies; as for inſtance, thoſe of <hi>Stage-players</hi> and <hi>Bear-bait<g ref="char:EOLhyphen"/>ings, &amp;c.</hi> are excluded here, becauſe all what in the Act following ſhall be ſpoken, muſt ſtrictly (eſpecially being a penal Law.) be un<g ref="char:EOLhyphen"/>derſtood only of Conventicles, according to the principle of Laws, viz. <hi>Interpretatio Nigri fluit ex Rubro, quae in paenalibus ſtrictior &amp; be<g ref="char:EOLhyphen"/>nignier eſt,</hi> that is, When ſome one, looking upon the ſign of a houſe where is written, <hi>Here is Coffee to be had,</hi> he knows that <hi>Sack</hi> or <hi>Rheniſh</hi> wine is excluded, as not to be ſold there. So accordingly is this the definition: <hi>A Conventicle is an unlawful Aſſembly, or Meeting of ſeditious Sectaries and other diſloyal perſons, being Subjects of this Realm, who do contrive Inſurrections, under pretence of tender Conſciences, and exerciſe of Religion.</hi>
+            </p>
+            <p n="5">5. As concerning that <hi>[being a Subject]</hi> it's true, when the words of the Act were written down in the general, thus; <hi>If any perſon ſhall be preſent at any Conventicle, &amp;c.</hi> it would include all generally, as well Forreigners or Inhabitants in this Realm, as the Subjects of the ſame. But being, of ſet purpoſe, limited and reſtrained upon the Subjects of this Realm, all Forreigners are thereby evidently ex<g ref="char:EOLhyphen"/>cluded.</p>
+            <p n="6">6. Nay, by ſo much the more, that the Act ſtands not only re<g ref="char:EOLhyphen"/>ſtrictively upon the Subjects, but adds, <hi>[of this Realm]</hi> And ſo ex<g ref="char:EOLhyphen"/>cludes all <hi>Iriſhmen</hi> and <hi>Scottiſhmen</hi> too.</p>
+            <p n="7">7. Therefore all this ought to be proved firſt, ere any proceeding againſt any perſon, upon that account may be legal and juſtified in the ſight of the world: Provided alwayes, that <hi>a particulari ad Uni<g ref="char:EOLhyphen"/>verſale non valet conſequentia.</hi> And therefore <hi>Verba generalia ſecundum Naturam ſubjectae rationis reſtringenda ſunt. Neque enim quae in odium paucorum introducta ſunt, ad omnes extendi ratio &amp; jura permittunt, preſertim in ſtatutis, quorum verba ſemper ſtrictè ſunt accipienda &amp; ſe<g ref="char:EOLhyphen"/>cundum communem loquendi uſuns.</hi>
+            </p>
+            <p n="8">8. Wherefore it is quite contrary to the Principles, eſpecially thoſe of penal Laws, to extend the word <hi>Subject</hi> beyond its natural ſenſe, becauſe <hi>Juditium penale non excedit caſum, ſed ut in ſtatutis, it a multò magis in paenalibus &amp; odioſis verba Legis in benigniorem partem accipi debent,</hi> that is, the penal Judgment exceedeth not the caſe, but the words of the Law are to be underſtood according to their ſtrict
+<pb n="4" facs="tcp:52415:3" rendition="simple:additions"/>(<hi>viz.</hi> moſt common and natural) ſignification, to ſave mens lives.</p>
+            <p n="9">9. And it might be inquired for, in all the Laws of <hi>England,</hi> if any where the word <hi>Subject</hi> is ever ſaid or ſpoken of any other, than ſuch as are <hi>Engliſhmen</hi> or Naturalized. If ſo; to what purpoſe ſerves the Naturalization? If not, why muſt it now in this odious matter be forced beyond its ſtrength, as to include generally all that are in the Kings protection? That would ſeem to the <hi>Aliens,</hi> as if they under the ſuffering of this Act ſhould purchaſe the Naturalization; Or juſtly might be required, What then thoſe words, <hi>being a Subject of this Realm,</hi> did imply, for as much as all that are in <hi>England,</hi> are in the Kings protection? But I verily believe, that in caſe a <hi>German</hi> upon ſuch an account, as <hi>being a Subject of this Realm,</hi> would buy ſome Land, and make uſe of the Priviledges of <hi>Engliſhmen,</hi> the Judges would ſoon find him not capable.</p>
+            <p n="10">10. Therefore the caſe is plain, if men would but prevail with their Reaſon, leſt under pretence of Executing the Law, they are found guilty of Oppreſſion, and fall into the Condemnation of the Moſt-High.</p>
+            <p n="11">11. For if the Judges (and Jury-men) ſit on the Bench to ſave mens Lives, when the Law in any reſpect is not broken, might it not, in caſe they endeavour all what they can to take away mens lives contrary to the Law, juſtly be anſwered; as it is written: <hi>Sitteſt thou to judge me after the Law, and commandeſt me to be ſmitten contrary to the Law?</hi> Such like Judges methinks might well be ſuſpected, and con<g ref="char:EOLhyphen"/>ſequently by the Authority of the Law, recuſed.</p>
+            <p n="12">12. And furthermore, The reaſon of theſe reſtrictive words, <hi>[Be<g ref="char:EOLhyphen"/>ing a Subject, &amp;c.]</hi> will make it up: for, 1. becauſe the iſſue of the Act is, <hi>Servitude and Transportation to the Kings Plantations beyond the Seas;</hi> which penalty, as being unfit to be executed againſt a For<g ref="char:EOLhyphen"/>reigner, cauſed this Reſtriction of the ſaid Act, referring it ſelf up<g ref="char:EOLhyphen"/>on the Subjects alone; and therefore to make it evident, theſe words <hi>[being a Subject of this Realm]</hi> have been inſerted of ſet purpoſe.</p>
+            <p n="13">13. Whereby Evidence is given, that the King's intention by the ſaid Act is only carried on to a Reformation of his own Subjects firſt of all, before thoſe of other Nations, not willing (in the firſt place) to countenance the Forreigners ſooner, than he may have brought to a Conformity his Own.</p>
+            <p n="14">14. Which being performed, the Forreigners (it might be ſuppo<g ref="char:EOLhyphen"/>ſed)
+<pb n="5" facs="tcp:52415:3" rendition="simple:additions"/>would not be looked upon as men of Reaſon, in caſe <hi>All</hi> Sub<g ref="char:EOLhyphen"/>jects of this Realm were brought to an unanimous Uniformity, they would reſt without it, and yet be Inhabitants of this Realm.</p>
+            <p n="15">15. And therefore I bid all men conſider, if the inferiour Magi<g ref="char:EOLhyphen"/>ſtrates do not according to what is here declared, deal prejudicially to the King and Government of <hi>England,</hi> when they impriſon men, in order to Servitude and Tranſportation, and cannot afterwards, when it comes to Tryal, ſentence or execute them, according to Law and Reaſon of the ſame? And do they not wrong forreign Kings and Princes? and become guilty of falſe Impriſonment?</p>
+            <p n="16">16. So this may give Evidence enough, that Forreigners by the <hi>Act to ſuppreſs, &amp;c.</hi> are proceeded againſt unjuſtly and contrary to the ſaid Act. It is therefore in vain, to ſay, they muſt execute the Law, when they do more than any Law requires to be done, making only, of what they ſay is a Law, a Cover of their Intentions, in comply<g ref="char:EOLhyphen"/>ing with, or repairing unto that, which binds them not, by which the Inexcuſableneſs of men ſhall be evident at that time, when the Lord ſhall judge them, however they ſeem now to be, as the Prophet <hi>Eſ<g ref="char:EOLhyphen"/>dras</hi> ſaith, 2 <hi>Eſd.</hi> 12.72.
+<q>Paraeneſis ad quorum Intereſt.</q>
+            </p>
+            <p n="17">17. But be it known herewith to all concerned in this matter, that if the Principle the <hi>Quakers</hi> are poſſeſſors of, be from God, then no power of men can overthrow them, let them ſtir and buſtle and clamour and rage and baniſh and perſecute whatever they can.</p>
+            <p n="18">18. And if the Principle the <hi>Quakers</hi> are poſſeſſors of, be not from God, let them worſhip and pretend and colour and meet, and ſuffer Perſecution, Impriſonment, Baniſhment, yea, Death it ſelf, all will not keep them ſtanding, but they muſt fall, without all ſuch buſtling or any man's power. So,</p>
+            <p n="19">19. This is the old Principle of <hi>Gamaliel,</hi> true, and never found falſe, or there could be no Chriſtians.</p>
+            <p n="20">20. And will ſtand, when there are no Perſecuters any more, or there would remain no Chriſtians.</p>
+            <p n="21">21. Mark here, ye that are Atheiſts, if the Foundation of the Chriſtian Faith were but a Device of men, by what reaſon may ye think that it might be poſſible, that by no power of the world they
+<pb n="6" facs="tcp:52415:4" rendition="simple:additions"/>could be overthrown in theſe 1664 years? Tell me, could ever any thing in the world, by what wiſdom of men ſoever, thus be eſtabliſh<g ref="char:EOLhyphen"/>ed, that it ſhould ſtand ſo long as the <hi>Chriſtians</hi> have done, and can<g ref="char:EOLhyphen"/>not be weakened as yet, although battered by all Ages? Would they not dye outright by themſelves, like as other things have done, that ye reckon to be more real and reaſonable? Nay, have not alwayes all powers, that endeavoured what they could to overthrow them, been overthrown themſelves, and have periſh'd? Have they not all been like a Ship, that hits againſt a Rock to ſplit it, and have they not been ſplit themſelves? If not, where are they then? let them come forth, that we may ſee them: Becauſe I ſee the <hi>Chriſtians</hi> are ſtill in being and alive. But they are all gone, and lye in their graves, and are rotten, and ſhall never ſee the Light again. But the <hi>Chriſtians</hi> ſtand in battel ſtill, as ready to fight, yet to kill no body, but rather to dye. Yet they muſt live, and thoſe muſt dye that will kill them.</p>
+            <p n="22">22. What is then the beſt, to fight againſt God, and periſh; or yeeld unto his power, and be ſaved?</p>
+            <p n="23">23. O pittiful undertakings, that are beyond mens ſtrength! If a Child ſhould adventure to carry a Milſtone to the top of <hi>Paul's</hi> Steeple, would you not laugh at it? And yet you encounter greater difficulties. Be not angry, but conſider if Truth be not ſpoken here.</p>
+            <p n="24">24. Moreover, Have ye ever ſtated the caſe of the <hi>Jews</hi> againſt Jeſus; When firſt Jeſus came and ſhewed his Power in Miracles, doing many good works, he was very welcome and beloved amongſt the Jews, <hi>except the Prieſts.</hi> All people ran after him, and wondred at him, <hi>except the Prieſts.</hi> And no man ſpoke ill of him, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well, <hi>except the Prieſts.</hi> Becauſe no man found any thing in him, nor in his Life and Converſation that was reproachful, and <hi>the Prieſts nei<g ref="char:EOLhyphen"/>ther.</hi> But when Jeſus began to reprove the Prieſts, their hatred, envy, maliciouſneſs aroſe in them, and Perſecution began, till final<g ref="char:EOLhyphen"/>ly unto death it ſelf. All people (the ſober ſort of them) pittied Jeſus and wept. But the <hi>Prieſts drew the moſt cruel ſort of the Nation,</hi> and they joyned, and blamed, and ſtirred up the people, and cryed out againſt Jeſus, until they had brought the whole Realm of the <hi>Jews</hi> into a commotion and confuſion. There Jeſus muſt be <hi>a Sediti<g ref="char:EOLhyphen"/>ous Man, a Seducer, a Blaspemer, a Devil,</hi> and what not? And all this <hi>by the Prieſts.</hi> And the more Jeſus did reprove them for it, in
+<pb n="7" facs="tcp:52415:4" rendition="simple:additions"/>meekneſs, in patience, in truth, the more they grew bad, ſhrewd, en<g ref="char:EOLhyphen"/>vious, till at laſt they reſolved to kill him; <hi>Becauſe</hi> (ſaid they) <hi>all people drew after him.</hi> And here the Prieſts uttered their chief cauſe. Then aſſembled together the Arch-Prieſts, the Lawyers, and the Se<g ref="char:EOLhyphen"/>nators of the Nation, in the Palace, and ſaid, <hi>What do we? for this man doth many Miracles; If we let him thus alone, all men will believe on him, and the Romans ſhall come, and take away both our place and Na<g ref="char:EOLhyphen"/>tion.</hi> Therefore they conſulted, how they might take Jeſus <hi>by ſubtilty</hi> and kill him. Now, to make a new Law on purpoſe, they needed not, becauſe they had a Law of God himſelf, which they could find him guilty of, according to the very letter; and this was the Law, <hi>He that blaſphemeth the Name of the Lord, he ſhall ſurely be put to death, Levit.</hi> 24.26. And ſo Jeſus being in the eyes of the Arch-Prieſts, Lawyers and Senators, but a poor ſilly Carpenter of <hi>Nazareth,</hi> who did teach publickly, That all that would be ſaved muſt believe in him, for he was God's Son, ſent to the end he ſhould be their King: Tell me, wiſe-men, what evidence needed they more to find him guilty? For as to be convinced otherwiſe by his Miracles, ſuch like had been wrought by many Prophets of old, who never-the-more did amount to that highneſs, of profeſſing themſelves Sons of God. And as concerning his Miracles, they did not reprove him for, but as it is written, <hi>for Blasphemy, and becauſe he being a man, made himſelf a God,</hi> Joh. 10.33.</p>
+            <p n="25">25. So tell me, all Judges and Jury-men, if Jeſus ſhould come at this very day before your Bar, muſt ye not find him guilty, according to the expreſs letter and evidence of the fact? If ſo, wherefore do ye chide and tax the Jews, who had ſuch a Godly old Law, not made by men, on purpoſe: a Law, whoſe letter and reaſon of the ſame did ſo well agree together, that they found themſelves ſtrictly, (and not hypocritically, as to pleaſe men) bound to take the execution of it, as being by ſo many ſad experiences often-times moſt ſadly, both by Wars, Captivity, and other Plagues, warned and reproved for the neglecting of the Law of God?</p>
+            <p n="26">26. If now, provided the expreſſedneſs of the Law of God, and the evidence of the fact, the Arch-Prieſts, Lawyers and Senators of the Realm of the <hi>Jews,</hi> and the univerſal multitude of the then Jewiſh Church, notwithſtanding their far more (by divine Authority expreſ<g ref="char:EOLhyphen"/>ſedly <hi>ſub paena Capitis,</hi> Deut. 17.8.) authentical Infallibility, did moſt
+<pb n="8" facs="tcp:52415:5" rendition="simple:additions"/>fundamentally err and miſtake, and ſo deceive notoriouſly the whole Nation, bringing them into (at this very day) endleſs miſery, to be left without excuſe; what will become of ſuch as ſcarce can pretend a Law, though made on purpoſe, one after another, yet ſtill by reaſon of the ſame they cannot hit the mark, nor will their Wit<g ref="char:EOLhyphen"/>neſſes agree together, <hi>Mark.</hi> 14.56, and 59. And yet they will ſtill foot upon, and ſhew themſelves as it were bound to the Exe<g ref="char:EOLhyphen"/>cution of it, where neither Evidence of the Fact, nor the leaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reaſon of the ſame may excuſe them. Therefore if the green tree is cut off, think what ſhall be done in the dry, <hi>Luke</hi> 23.31. So loving Friends, find out the cauſe which made the <hi>Jews</hi> to ſtumbles, and it will ſhew you your own caſe, like as in a Looking-glaſs.</p>
+            <epigraph>
+               <bibl>
+                  <hi>Iſa.</hi> 51.7, 8, 9. and <hi>Chap.</hi> 66.5.</bibl>
+            </epigraph>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>14th of the 7th month, 1664.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
